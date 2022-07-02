@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button">
+        <item name="background">@color/pale_green_yellow</item>
+        <item name="backgroundColor">@color/pale_green_yellow</item>
+        <item name="android:elevation">3dp</item>
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+</resources>
